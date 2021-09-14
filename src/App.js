@@ -19,7 +19,7 @@ function App() {
 <br/>
 <img src={logo} alt={"logo"}/> 
 <br/>
-<video width='750' height="500" controls >
+<video width='320' height='240' controls >
       <source src="./videos/JSX Tuto.mp4" type="video/mp4"/>
      </video>
       </div>
